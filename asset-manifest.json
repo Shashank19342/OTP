@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shashank19342/OTP.git/static/css/main.18059ac2.chunk.css",
+    "main.js": "/Shashank19342/OTP.git/static/js/main.ff48bbcb.chunk.js",
+    "main.js.map": "/Shashank19342/OTP.git/static/js/main.ff48bbcb.chunk.js.map",
+    "runtime-main.js": "/Shashank19342/OTP.git/static/js/runtime-main.4d0e82dc.js",
+    "runtime-main.js.map": "/Shashank19342/OTP.git/static/js/runtime-main.4d0e82dc.js.map",
+    "static/js/2.f792f00e.chunk.js": "/Shashank19342/OTP.git/static/js/2.f792f00e.chunk.js",
+    "static/js/2.f792f00e.chunk.js.map": "/Shashank19342/OTP.git/static/js/2.f792f00e.chunk.js.map",
+    "static/js/3.74050d98.chunk.js": "/Shashank19342/OTP.git/static/js/3.74050d98.chunk.js",
+    "static/js/3.74050d98.chunk.js.map": "/Shashank19342/OTP.git/static/js/3.74050d98.chunk.js.map",
+    "index.html": "/Shashank19342/OTP.git/index.html",
+    "static/css/main.18059ac2.chunk.css.map": "/Shashank19342/OTP.git/static/css/main.18059ac2.chunk.css.map",
+    "static/js/2.f792f00e.chunk.js.LICENSE.txt": "/Shashank19342/OTP.git/static/js/2.f792f00e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d0e82dc.js",
+    "static/js/2.f792f00e.chunk.js",
+    "static/css/main.18059ac2.chunk.css",
+    "static/js/main.ff48bbcb.chunk.js"
+  ]
+}
